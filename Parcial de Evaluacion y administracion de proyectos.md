@@ -45,3 +45,12 @@
 |--|--| --| 
 | 3.0 | Visibilidad  |  CAR-10 
 |--|--| --| 
+
+# 5. Listado de interesados
+
+| Rol / Grupo / Interesado | Participación | Visión del problema
+|--|--|--|
+| Empresas VTP | Beneficiario | Adquirir de forma sencilla boletos de autobús de ADM mediante sus sistemas. |
+| Competencia de ADM | Oponente | Implementar una estrategia de modernización de sus esquemas de ventas. |
+| Trabajadores en las taquillas de las terminales y módulos en centros comerciales | Perjudicado | Conseguir un nuevo trabajo dentro del sector. |
+
