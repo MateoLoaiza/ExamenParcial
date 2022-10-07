@@ -38,10 +38,10 @@
 #  4. Alcance del proyecto
 
 | Número de entrega | Tema principal  |  ID de características a incluir| 
-|--|--| --| --|
+|--|--| --| 
 | 1.0 | Funcionalidad básica  | CAR-01, CAR-02, CAR-03,CAR-04, CAR-11 | 
-|--|--| --| --|
+|--|--| --|
 | 2.0 | Estabilidad del sistema e integración con terceros  |  CAR-05, CAR-06, CAR-07, CAR-08, CAR-09, CAR-10, CAR-12 
-|--|--| --| --|
+|--|--| --| 
 | 3.0 | Visibilidad  |  CAR-10 
-|--|--| --| --|
+|--|--| --| 
