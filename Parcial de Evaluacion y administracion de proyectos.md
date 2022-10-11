@@ -89,12 +89,12 @@
 **MPI**
 -
 
-![Impacto Probabilidad y Riesgo](imagenes/MPI.png)
+![MPI](imagenes/MPI.png)
 
-**MPI**
+**RIESGOS**
 -
 
-![Impacto Probabilidad y Riesgo](imagenes/RIESGOS.png)
+![Riesgos](imagenes/RIESGOS.png)
 
 # **Estrategias de Respuesta a Riesgos:**
 
@@ -119,3 +119,18 @@
 3. **R3:** Conservar los puntos de venta fisico en zonas vulnerables en conectividad.
 
 4. **R4:** Planificar intervalos de tiempo que brinden respaldo a posibles cambios, hacer un análisis de lo que ya está y que tan traumático puede ser para el proyecto las modificaciones de los interesados.
+
+# CONCLUSIONES
+1. Se puede concluir que todo proyecto que tengamos en mente e incluso los ya presentes 
+están ligados por un estándar que vela por su correcto desempeño u oportuno cierre.
+Después de realizar las diferentes actividades se pudo observar los diversos factores
+que ayudan a una persona x a prevenir malas decisiones para su proyecto o monitorear su estado calificando la importancia de estas decisiones o características.
+2. Podemos concluir que el éxito de un proyecto no depende únicamente de una persona o grupo
+con una necesidad presente, existen factores externos tales como riesgos o grupos de
+interesados tanto benéfico como perjudicial en el caso de competencias.
+Factores externos que deben ser estudiados y evaluados en el desarrollo de los proyectos
+a realizar.
+3. En el transcurso de un proyecto hay formas de evaluar los riesgos involucrados en su
+desarrollo, tales  como la maya de probabilidad e impacto que brinda una idea de a que
+riesgos enfocar una mayor atención o lo factible que puede ser continuar o descartar
+ el proyecto.
