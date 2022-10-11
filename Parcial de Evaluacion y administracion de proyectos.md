@@ -53,6 +53,7 @@
 | Empresas VTP | Beneficiario | Adquirir de forma sencilla boletos de autobús de ADM mediante sus sistemas. |
 | Competencia de ADM | Oponente | Implementar una estrategia de modernización de sus esquemas de ventas. |
 | Trabajadores en las taquillas de las terminales y módulos en centros comerciales | Perjudicado | Conseguir un nuevo trabajo dentro del sector. |
+| Mesa directiva de ADM| Beneficiario| Creación de un sistema de reservación y venta de sus boletos de forma electrónica|
 
 # 6. Identificaion de Riesgos
 
