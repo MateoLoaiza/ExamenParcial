@@ -134,4 +134,4 @@ a realizar.
 desarrollo, tales  como la maya de probabilidad e impacto que brinda una idea de a que
 riesgos enfocar una mayor atención o lo factible que puede ser continuar o descartar
  el proyecto.
- 4. De acuerodo con lo visto en clase los interesados en el proyecto son personas u organizaciones que estan involucrados en el proyecto o aquellos que sus intereses se ven o pueden verse afectados positiva o negativamente por la ejecución o terminación del proyecto. En conclusión es importante identificar a cada interesado para evitar que el proyecto se desvie de su curso y evitar en lo posible cambios inesperados.
+ 4. De acuerdo con lo visto en clase los interesados en el proyecto son personas u organizaciones que están involucrados en el proyecto o aquellos que sus intereses se ven o pueden verse afectados positiva o negativamente por la ejecución o terminación del proyecto. En conclusión es importante identificar a cada interesado para evitar que el proyecto se desvíe de su curso y evitar en lo posible cambios inesperados.
